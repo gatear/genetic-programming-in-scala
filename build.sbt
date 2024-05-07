@@ -11,6 +11,4 @@ lazy val root = (project in file(".")).settings(
     "org.scalacheck" %% "scalacheck" % "1.12.5" % "test",
     "org.mockito" % "mockito-all" % "1.10.19" % "test"
   )
-
-
 )
